@@ -163,39 +163,6 @@ Expressions are evaluated recursively.
 
 ---
 
-## Project Structure
-
-
-sil-lang
-│
-├── CMakeLists.txt
-├── main.cpp
-│
-├── lexer
-│ ├── token.h
-│ ├── token.cpp
-│ ├── lexer.h
-│ └── lexer.cpp
-│
-├── parser
-│ ├── parser.h
-│ └── parser.cpp
-│
-├── interpreter
-│ ├── interpreter.h
-│ └── interpreter.cpp
-│
-├── runtime
-│ └── environment.h
-│
-└── examples
-├── hello.sil
-├── math.sil
-└── variables.sil
-
-
----
-
 ## Runtime Value System
 
 sil-lang uses:
