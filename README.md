@@ -141,13 +141,6 @@ PRINT ( STRING:"Hello" )
 
 The parser converts the token stream into an **Abstract Syntax Tree (AST)**.
 
-Example AST:
-
-
-PrintStatement \n
-└── StringLiteral("Hello")
-
-
 ---
 
 ### 3. Interpreter
@@ -224,5 +217,3 @@ Instead of relying on existing frameworks or libraries, everything here is writt
 ## Author
 
 Ankit Sil
-
-Clone the repository
