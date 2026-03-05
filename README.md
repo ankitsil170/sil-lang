@@ -108,16 +108,13 @@ sil-lang follows the classic interpreter architecture used in many real programm
 
 
 Source Code (.sil)
-│
-▼
+ -> 
 Lexer
 (Tokenization)
-│
-▼
+ -> 
 Parser
 (AST Construction)
-│
-▼
+ -> 
 Interpreter
 (Code Execution)
 
