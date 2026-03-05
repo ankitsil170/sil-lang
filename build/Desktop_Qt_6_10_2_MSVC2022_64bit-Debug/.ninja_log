@@ -1,0 +1,12 @@
+# ninja log v6
+5	168	7944118819537232	sil-lang_autogen/timestamp	41cdde1e69a4deb6
+5	168	7944118819537232	sil-lang_autogen/mocs_compilation.cpp	41cdde1e69a4deb6
+5	168	7944118819537232	C:/Users/silan/OneDrive/Documents/sil-lang/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/sil-lang_autogen/timestamp	41cdde1e69a4deb6
+5	168	7944118819537232	C:/Users/silan/OneDrive/Documents/sil-lang/build/Desktop_Qt_6_10_2_MSVC2022_64bit-Debug/sil-lang_autogen/mocs_compilation.cpp	41cdde1e69a4deb6
+171	537	7944118820306842	CMakeFiles/sil-lang.dir/sil-lang_autogen/mocs_compilation.cpp.obj	9f1ebb5333e86855
+195	835	7944118820546939	CMakeFiles/sil-lang.dir/lexer/token.cpp.obj	523cb3252e139872
+187	840	7944118820465195	CMakeFiles/sil-lang.dir/lexer/lexer.cpp.obj	19bb909d13d8526c
+204	907	7944118820632458	CMakeFiles/sil-lang.dir/parser/parser.cpp.obj	3b030ecad79979a7
+178	1197	7944118820379895	CMakeFiles/sil-lang.dir/main.cpp.obj	6aeffc5cadc98d31
+213	1207	7944118820718147	CMakeFiles/sil-lang.dir/interpreter/interpreter.cpp.obj	28425d2fc415150d
+1208	1635	7944118830671375	sil-lang.exe	65b968824dfa3982

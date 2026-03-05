@@ -1,0 +1,12 @@
+# variables.sil - working with variables
+
+name = "Ankit"
+print(name)
+
+x = 42
+y = 8
+print(x + y)
+
+if x > y {
+    print("x is bigger")
+}
