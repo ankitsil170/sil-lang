@@ -144,7 +144,7 @@ The parser converts the token stream into an **Abstract Syntax Tree (AST)**.
 Example AST:
 
 
-PrintStatement
+PrintStatement \n
 └── StringLiteral("Hello")
 
 
